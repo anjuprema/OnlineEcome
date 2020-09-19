@@ -17,5 +17,7 @@
 		
         <mapping class="com.simplilearn.online.ecom.model.User" />
         <mapping class="com.simplilearn.online.ecom.model.Address" />
+        <mapping class="com.simplilearn.online.ecom.model.Product" />
+        <mapping class="com.simplilearn.online.ecom.model.Cart" />
     </session-factory>
 </hibernate-configuration>
